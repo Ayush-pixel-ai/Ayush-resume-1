@@ -63,9 +63,9 @@ I love solving real-world problems, learning new technologies, and continuously 
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
-- Email: your-email@gmail.com
+- GitHub: hhttps://github.com/Ayush-pixel-ai
+- LinkedIn: https://www.linkedin.com/in/ayush-vaish-9aa543328/
+- Email: vaishayusho5o3o5@gmail.com
 
 ---
 
