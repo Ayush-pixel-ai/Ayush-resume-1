@@ -49,6 +49,52 @@ I love solving real-world problems, learning new technologies, and continuously 
 - Exploratory Data Analysis (EDA)
 - CSV and Excel datasets
 
+### 🌱 Plant Website
+
+A responsive website focused on plants and greenery awareness.
+
+🌿 Features:
+
+Home, About, Plants Catalog, Contact pages
+
+Clean and user-friendly UI
+
+Responsive design for all devices
+
+🛠 Tech Stack:
+
+HTML, CSS, JavaScript
+
+🎯 Purpose:
+
+Promote environmental awareness
+
+Practice frontend design and layout skills
+
+### Social Internship Website
+
+A platform designed to connect students with social internship opportunities.
+
+🎓 Features:
+
+Internship listings
+
+Application & contact forms
+
+Informational pages for NGOs and students
+
+🛠 Tech Stack:
+
+HTML, CSS, JavaScript
+
+(Backend integration planned)
+
+🎯 Purpose:
+
+Support social causes
+
+Help students gain real-world experience
+
 > 👉 More projects coming soon…
 
 ---
